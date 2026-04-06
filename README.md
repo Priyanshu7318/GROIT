@@ -1,2 +1,0 @@
-# GROIT
-Personal AI Assistant
