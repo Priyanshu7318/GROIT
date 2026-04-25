@@ -249,7 +249,7 @@ npm test
 ```bash
 # Build web frontend
 cd web-frontend
-npm run build
+npm run dev
 
 # Create executable (using PyInstaller)
 pyinstaller --onefile Main.py
